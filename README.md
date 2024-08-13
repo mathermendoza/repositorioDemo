@@ -6,3 +6,9 @@ para el archivo README
 # Descripción
 
 Muestra como actualizar este repositorio
+
+## Referencias
+Entorno de desarrollo persona.
+Disponible en:https://www.youtube.com/@programmerexception526
+Consultado: 13Ago24
+
