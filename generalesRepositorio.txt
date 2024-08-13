@@ -46,7 +46,7 @@ nombre del repositorio
 			
 			git add generalesRepositorio.txt
 			git add competenciasTransversales.txt
-			git add Formato DGETI PD_CFL.doc
+			git add Formato DGETI PD_CFL.docx
 			git add .
 			git -A
 			
