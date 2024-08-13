@@ -45,6 +45,8 @@ nombre del repositorio
 	Listado para actualizar los contenidos del repositorio:
 			
 			git add generalesRepositorio.txt
+			git add competenciasTransversales.txt
+			git add Formato DGETI PD_CFL.doc
 			git add .
 			git -A
 			
